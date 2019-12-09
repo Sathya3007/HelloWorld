@@ -2,6 +2,6 @@ public class Sample
 {
  public static void main(String args[])
  {
-  System.out.println("Hello to the Trimble");
+  System.out.println("Hello to the Trimble World");
  }
 }
